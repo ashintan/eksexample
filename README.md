@@ -1,1 +1,1 @@
-# eksexample
+# eks-example
